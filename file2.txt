@@ -1,4 +1,4 @@
 Hello from file2 I am adding this line!
 
-if ( x == 12 ) 
+If ( x = 122)
    print "Hello"
